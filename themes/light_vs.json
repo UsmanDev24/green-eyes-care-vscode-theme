@@ -99,7 +99,7 @@
       "name": "css tags in selectors, xml tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#800000"
+        "foreground": "#940000"
       }
     },
     {
@@ -205,7 +205,7 @@
       "name": "brackets of XML/HTML tags",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#800000"
+        "foreground": "#887575"
       }
     },
     {
