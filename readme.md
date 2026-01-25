@@ -60,4 +60,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 ---
 
 **Publisher**: Usman Ghani (usmandev24)
-**Version**: 1.0.0
+**Version**: 1.0.1

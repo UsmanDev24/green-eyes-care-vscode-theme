@@ -1,8 +1,8 @@
 {
 	"name": "green-eyes-care-theme",
 	"displayName": "Green Eyes Care Theme",
-	"description": "A personalized VS Code theme set for both night and day and for every type of light or dark conditions",
-	"version": "1.0.0",
+	"description": "Zero-Blue-Light: A blue-filtered base to protect your vision in every type of light environments.",
+	"version": "1.0.1",
 	"publisher": "usmandev24",
 	"repository": {
 		"type": "git",
