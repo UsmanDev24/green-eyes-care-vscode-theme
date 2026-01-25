@@ -1,8 +1,8 @@
 {
-	"name": "green-eyes-first-theme",
-	"displayName": "Green Eyes First Theme",
+	"name": "green-eyes-care-theme",
+	"displayName": "Green Eyes Care Theme",
 	"description": "A personalized VS Code theme set for both night and day and for every type of light or dark conditions",
-	"version": "6.1.0",
+	"version": "1.0.0",
 	"publisher": "usmandev24",
 	"repository": {
 		"type": "git",
@@ -14,30 +14,31 @@
 	"categories": [
 		"Themes"
 	],
+	"icon": "icon.png",
 	"contributes": {
 		"themes": [
 			{
-				"label": "Light Warm Green   ...eyes first",
+				"label": "Light Warm Green   ...eyes care",
 				"uiTheme": "vs",
 				"path": "./themes/light_modern_warm.json"
 			},
 			{
-				"label": "Light Cool Green   ...eyes first",
+				"label": "Light Cool Green   ...eyes care",
 				"uiTheme": "vs",
 				"path": "./themes/light_modern_cool.json"
 			},
 			{
-				"label": "Light Soft Green   ...eyes first",
+				"label": "Light Soft Green   ...eyes care",
 				"uiTheme": "vs",
 				"path": "./themes/light_modern_soft.json"
 			},
 			{
-				"label": "Dark Night Green   ...eyes first",
+				"label": "Dark Night Green   ...eyes care",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_night.json"
 			},
 			{
-				"label": "Dark Vivid Green   ...eyes first",
+				"label": "Dark Vivid Green   ...eyes care",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_vivid.json"
 			}
@@ -49,5 +50,8 @@
 		"pinned": true,
 		"source": "vsix",
 		"size": 90547
+	},
+	"devDependencies": {
+		"vsce": "^2.15.0"
 	}
 }
