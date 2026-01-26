@@ -3,7 +3,7 @@
 		<Metadata>
 			<Identity Language="en-US" Id="green-eyes-care-theme" Version="1.0.0" Publisher="usmandev24" />
 			<DisplayName>Green Eyes Care Theme</DisplayName>
-			<Description xml:space="preserve">A Best for Eyes VS Code theme set for both night and day and for every type of light or dark conditions</Description>
+			<Description xml:space="preserve">Zero-Blue-Light: A blue-filtered base with green tone to protect your vision in every type of light environments</Description>
 			<Tags>theme,color-theme,__web_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
@@ -18,11 +18,11 @@
 				
 				
 				
-				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/usmandev24/green_light_and_dark_vs_code_theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/usmandev24/green_light_and_dark_vs_code_theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/usmandev24/green_light_and_dark_vs_code_theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/usmandev24/green_light_and_dark_vs_code_theme/issues" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/usmandev24/green_light_and_dark_vs_code_theme#readme" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/usmandev24/green-eyes-care-vscode-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/usmandev24/green-eyes-care-vscode-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/usmandev24/green-eyes-care-vscode-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/usmandev24/green-eyes-care-vscode-theme/issues" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/usmandev24/green-eyes-care-vscode-theme#readme" />
 				
 				
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />

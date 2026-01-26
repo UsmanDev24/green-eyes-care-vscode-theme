@@ -1,12 +1,12 @@
 {
 	"name": "green-eyes-care-theme",
 	"displayName": "Green Eyes Care Theme",
-	"description": "Zero-Blue-Light: A blue-filtered base to protect your vision in every type of light environments.",
-	"version": "1.0.1",
+	"description": "Zero-Blue-Light: A blue-filtered base with green tone to protect your vision in every type of light environments.",
+	"version": "1.0.2",
 	"publisher": "usmandev24",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/usmandev24/green_light_and_dark_vs_code_theme"
+		"url": "https://github.com/usmandev24/green-eyes-care-vscode-theme"
 	},
 	"engines": {
 		"vscode": "^1.60.0"
