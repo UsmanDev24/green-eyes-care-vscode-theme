@@ -6,10 +6,13 @@
 
 ## SecreenShots: 
 Dark Vivid Green:
-<img width="1062" height="663" alt="image" src="https://github.com/user-attachments/assets/c348bba2-6f9c-48cb-ac0f-420fd6b99913" />
-<img width="1322" height="720" alt="image" src="https://github.com/user-attachments/assets/f6feb53f-9f99-4150-a37f-2b847e2b1f15" />
-<img width="1131" height="734" alt="image" src="https://github.com/user-attachments/assets/314eb4b3-ffde-4e57-bb89-97eb13a45c1e" />
+<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/ecaaeee0-78a7-4f87-96d1-8802bc520c92" />
 
+<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/24e92551-b917-4e0d-be6e-7d63673f7682" />
+
+<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/793f9fda-4c79-4802-9cae-177a259f96b9" />
+
+<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/45349c5d-c6d2-429a-9bad-454dfe625ee7" />
 
 ![image](https://github.com/user-attachments/assets/aa9c8130-e2c2-4c9e-a11c-27a66164316f)
 Dark Night Green:
@@ -51,7 +54,7 @@ Light Cool Green:
 
 ## Repository
 
-Find the source code and contribute to the project at the [GitHub Repository](https://github.com/usmandev24/green_light_and_dark_vs_code_theme).
+Find the source code and contribute to the project at the [GitHub Repository](https://github.com/usmandev24/green-eyes-care-vscode-theme).
 
 ## Feedback and Contributions
 
@@ -59,5 +62,6 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 ---
 
-**Publisher**: Usman Ghani (usmandev24)
+**Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
+
 **Version**: 1.0.1
