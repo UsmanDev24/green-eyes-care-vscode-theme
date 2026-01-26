@@ -6,13 +6,13 @@
 
 ## SecreenShots: 
 Dark Vivid Green:
-<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/ecaaeee0-78a7-4f87-96d1-8802bc520c92" />
+![image](https://github.com/user-attachments/assets/ecaaeee0-78a7-4f87-96d1-8802bc520c92)
 
-<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/24e92551-b917-4e0d-be6e-7d63673f7682" />
+![image](https://github.com/user-attachments/assets/24e92551-b917-4e0d-be6e-7d63673f7682)
 
-<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/793f9fda-4c79-4802-9cae-177a259f96b9" />
+![image](https://github.com/user-attachments/assets/793f9fda-4c79-4802-9cae-177a259f96b9)
 
-<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/45349c5d-c6d2-429a-9bad-454dfe625ee7" />
+![image](https://github.com/user-attachments/assets/45349c5d-c6d2-429a-9bad-454dfe625ee7)
 
 ![image](https://github.com/user-attachments/assets/aa9c8130-e2c2-4c9e-a11c-27a66164316f)
 Dark Night Green:
@@ -64,4 +64,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 1.0.1
+**Version**: 1.0.3
