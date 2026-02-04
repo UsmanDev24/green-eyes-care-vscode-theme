@@ -1,17 +1,17 @@
 {
 	"name": "green-eyes-care-theme",
 	"displayName": "Green Eyes Care Theme",
-	"description": "A nature green theme for easy eyes, zero blue light. Includes soft green, comfort green, dark green, and daylight green variants. Optimized for low-contrast, light green, and night green mode coding to provide maximum eye comfort",
-	"version": "1.0.5",
+	"description": "Dark green theme designed for easy eyes with filtered blue light. It features nature green, dark green and soft green variants. Optimized for easy on eyes, natural green, light green and night green mode to provide maximum eye comfort",
+	"version": "1.0.8",
 	"publisher": "usmandev24",
 	"keywords": [
 		"green",
 		"green-theme",
-    "eye-friendly",
-    "soft-green",
+		"eye-friendly",
+		"soft-green",
 		"dark-green",
-    "easy-eyes",
-    "nature",
+		"easy-eyes",
+		"nature",
 		"eyes-care",
 		"comfort-theme",
 		"nature-green"
