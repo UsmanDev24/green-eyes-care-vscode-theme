@@ -4,6 +4,7 @@
 
 **Green Eyes Care Theme** is a personalized Visual Studio Code theme set designed for comfortable coding experiences across all lighting conditions. This theme is especially suited for those who prefer soothing green tones and minimal visual strain.
 
+**Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev)
 ## SecreenShots: 
 Dark Vivid Green:
 ![image](https://github.com/user-attachments/assets/ecaaeee0-78a7-4f87-96d1-8802bc520c92)
@@ -64,4 +65,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 1.0.3
+**Version**: 1.0.5

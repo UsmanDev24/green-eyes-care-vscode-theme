@@ -1,9 +1,21 @@
 {
 	"name": "green-eyes-care-theme",
 	"displayName": "Green Eyes Care Theme",
-	"description": "Zero-Blue-Light: A blue-filtered base with green tone to protect your vision in every type of light environments.",
-	"version": "1.0.3",
+	"description": "A nature green theme for easy eyes, zero blue light. Includes soft green, comfort green, dark green, and daylight green variants. Optimized for low-contrast, light green, and night green mode coding to provide maximum eye comfort",
+	"version": "1.0.5",
 	"publisher": "usmandev24",
+	"keywords": [
+		"green",
+		"green-theme",
+    "eye-friendly",
+    "soft-green",
+		"dark-green",
+    "easy-eyes",
+    "nature",
+		"eyes-care",
+		"comfort-theme",
+		"nature-green"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/usmandev24/green-eyes-care-vscode-theme"
