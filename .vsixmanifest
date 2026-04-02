@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="green-eyes-care-theme" Version="1.0.8" Publisher="usmandev24" />
+			<Identity Language="en-US" Id="green-eyes-care-theme" Version="1.0.9" Publisher="usmandev24" />
 			<DisplayName>Green Eyes Care Theme</DisplayName>
 			<Description xml:space="preserve">Dark green theme designed for easy eyes with filtered blue light. It features nature green, dark green and soft green variants. Optimized for easy on eyes, natural green, light green and night green mode to provide maximum eye comfort"</Description>
 			<Tags>green,green theme,dark green,eye-care,nature-green,easy-eyes,zero-blue-light,soft-green,comfort-green,daylight-green,low-contrast,light-green,night-green,eye-comfort,__web_extension</Tags>
