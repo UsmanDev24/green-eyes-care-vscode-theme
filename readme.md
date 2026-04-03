@@ -7,15 +7,11 @@
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev)
 ## SecreenShots: 
 Dark Vivid Green:
-![image](https://github.com/user-attachments/assets/ecaaeee0-78a7-4f87-96d1-8802bc520c92)
+![image](https://github.com/user-attachments/assets/ae574a0f-096c-450e-8595-6b5cf651bd0f)
 
-![image](https://github.com/user-attachments/assets/24e92551-b917-4e0d-be6e-7d63673f7682)
+![image](https://github.com/user-attachments/assets/d886c244-9418-47b2-97b4-1def9c83fbf0)
 
-![image](https://github.com/user-attachments/assets/793f9fda-4c79-4802-9cae-177a259f96b9)
-
-![image](https://github.com/user-attachments/assets/45349c5d-c6d2-429a-9bad-454dfe625ee7)
-
-![image](https://github.com/user-attachments/assets/aa9c8130-e2c2-4c9e-a11c-27a66164316f)
+![image](https://github.com/user-attachments/assets/2c457bd1-75ca-483c-918c-6e4a7423f5d8)
 Dark Night Green:
 ![image](https://github.com/user-attachments/assets/09a2d790-04c9-4ba5-ae60-53f45f09b2f4)
 Light Warm Green:
@@ -65,4 +61,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 1.1.3
+**Version**: 1.1.4
