@@ -5,6 +5,11 @@
 **Green Eyes Care Theme** is a personalized Visual Studio Code theme set designed for comfortable coding experiences across all lighting conditions. This theme is especially suited for those who prefer soothing green tones and minimal visual strain.
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev)
+
+If this theme helps you, please consider:
+
+  - 🌟 [Star](https://github.com/UsmanDev24/green-eyes-care-vscode-theme) on GitHub
+  - ⭐ [Rate](https://marketplace.visualstudio.com/items?itemName=usmandev24.green-eyes-care-theme&ssr=false#review-details) on Marketplace
 ## SecreenShots: 
 Dark Vivid Green:
 ![image](https://github.com/user-attachments/assets/ae574a0f-096c-450e-8595-6b5cf651bd0f)
@@ -23,10 +28,10 @@ Light Cool Green:
 - **Day and Night Modes:** Includes themes for both light and dark conditions.
 - **Green-Focused Palettes:** Replaces blue tones with relaxing green shades for better focus and reduced eye strain.
 - **Multiple Variants:** Choose from:
-  - **Light Warm Green**: A cozy and warm green theme for daylight coding.
-  - **Light Cool Green**: A refreshing cool green theme for brighter environments.
-  - **Light Soft Green**: A subtle and softer green theme for relaxed work sessions.
-  - **Dark Vivid Green**: A dark theme optimized for night-time coding.
+  - **Green Eyes: Light Warm**: A cozy and warm green theme for daylight coding.
+  - **Green Eyes: Light Cool**: A refreshing cool green theme for brighter environments.
+  - **Green Eyes: Light Soft**: A subtle and softer green theme for relaxed work sessions.
+  - **Green Eyes: Dark Night**: A dark theme optimized for night-time coding.
 ## Important Note: 
   Always use **jetbrains mono** When using any daylight theme. 
 ## Installation
@@ -39,11 +44,13 @@ Light Cool Green:
 
 1. Go to **File** > **Preferences** > **Color Theme** (or use `Ctrl+K Ctrl+T`).
 2. Select your preferred Green Eyes First Theme variant:
-   - Light Warm Green
-   - Light Cool Green
-   - Light Soft Green
-   - Dark Night Green
-   - Dark Vivid Green
+   - Green Eyes: Light Warm
+   - Green Eyes: Light Cool
+   - Green Eyes: Light Soft
+   - Green Eyes: Dark Night
+   - Green Eyes: Dark Vivid
+   - Green Eyes: Dark Night (2026)
+   - Green Eyes: Dark Vivid (2026)
   
 ## Compatibility
 
@@ -61,4 +68,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 2.2.5
+**Version**: 2.3.0

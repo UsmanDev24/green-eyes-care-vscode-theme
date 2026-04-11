@@ -2,7 +2,7 @@
 	"name": "green-eyes-care-theme",
 	"displayName": "Green Eyes Care Theme",
 	"description": "Dark green theme designed for easy eyes with filtered blue light. Optimized for easy on eyes, natural green, light green and night green mode to provide maximum eye comfort and eyecare",
-	"version": "2.2.5",
+	"version": "2.3.0",
 	"publisher": "usmandev24",
 	"keywords": [
 		"green",
@@ -27,40 +27,44 @@
 		"Themes"
 	],
 	"icon": "icon.png",
+	"main": "./extension.js", 
+  "activationEvents": [
+     "onStartupFinished"
+  ],
 	"contributes": {
 		"themes": [
 			{
-				"label": "Light Warm Green   ...eyes care",
+				"label": "Green Eyes: Light Warm",
 				"uiTheme": "vs",
 				"path": "./themes/light_modern_warm.json"
 			},
 			{
-				"label": "Light Cool Green   ...eyes care",
+				"label": "Green Eyes: Light Cool",
 				"uiTheme": "vs",
 				"path": "./themes/light_modern_cool.json"
 			},
 			{
-				"label": "Light Soft Green   ...eyes care",
+				"label": "Green Eyes: Light Soft",
 				"uiTheme": "vs",
 				"path": "./themes/light_modern_soft.json"
 			},
 			{
-				"label": "Dark Night Green         ...eyes care",
+				"label": "Green Eyes: Dark Night     ",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_night.json"
 			},
 			{
-				"label": "Dark Vivid Green         ...eyes care",
+				"label": "Green Eyes: Dark Vivid      ",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_vivid.json"
 			},
 			{
-				"label": "Dark Night Green New     ...eyes care",
+				"label": "Green Eyes: Dark Night (2026)  ",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_night_2026.json"
 			},
 			{
-				"label": "Dark Vivid Green New     ...eyes care",
+				"label": "Green Eyes: Dark Vivid (2026)  ",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_vivid_2026.json"
 			}
