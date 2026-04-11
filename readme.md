@@ -44,7 +44,7 @@ Light Cool Green:
    - Light Soft Green
    - Dark Night Green
    - Dark Vivid Green
-   - 
+  
 ## Compatibility
 
 - Requires Visual Studio Code version **1.60.0** or higher.
@@ -61,4 +61,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 2.2.4
+**Version**: 2.2.5
