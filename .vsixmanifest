@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="green-eyes-care-theme" Version="4.0.1" Publisher="usmandev24" />
+			<Identity Language="en-US" Id="green-eyes-care-theme" Version="4.0.2" Publisher="usmandev24" />
 			<DisplayName>Green Eyes Care Theme</DisplayName>
 			<Description xml:space="preserve">A dark green theme engineered for total eyecare and eye comfort. Features filtered blue light to reduce strain, making your editor easy on eyes for day and night coding sessions</Description>
 			<Tags>green,green theme,dark green,eye-care,nature-green,easy-eyes,zero-blue-light,soft-green,comfort-green,daylight-green,low-contrast,light-green,night-green,eye-comfort,__web_extension</Tags>
